@@ -1,7 +1,7 @@
 # code
 Experiments for A3: An Automatic Topology-Aware Malfunction Detection and Fixation System in Data Center Networks
 
-The following is the steps of running comparison experiment and the steps of running heuristic 1 can use julia xx.jl --help to get and the way to run heuristic 2 is python2 newalgSWGfunc.py 10 2 1, which means to read the ct10-2-1.txt file (the first random physical graph for FatTree(k=10) with 2 link malfunctions). For simplicity, the ctxxx file includes only switch connections. 
+The following is the steps of running comparison experiment for DAC's malfunction detection and the steps of running A3's heuristic 1 can use julia xx.jl --help to get and the way to run A3's heuristic 2 is python2 newalgSWGfunc.py 10 2 1, which means to read the ct10-2-1.txt file (the first random physical graph for FatTree(k=10) with 2 link malfunctions). For simplicity, the ctxxx file includes only switch connections. 
 ## Deployment Guide
 
 ### Malfunction Detection
